@@ -1,1 +1,11 @@
-# repo-template
+
+  # MindMate UI Design
+
+  This is a code bundle for MindMate UI Design. The original project is available at https://www.figma.com/design/pLnue60WiNbB42fY4mdjWn/MindMate-UI-Design.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
