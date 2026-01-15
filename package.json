@@ -59,10 +59,5 @@
           "dev": "vite",
           "build": "vite build"
       }
-    {
-  "scripts": {
-    "build": "echo 'No build needed'"
-  }
-}
 
   }
